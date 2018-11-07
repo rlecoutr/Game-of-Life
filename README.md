@@ -32,6 +32,6 @@ Once run, you will find this time a canvas already filled with green cells repre
 You can click anywhere on the canvas to create a fire cell.
 
 The buttons "Départ" and "Arrêt" will respectively start and stop the evolution of the fire spreading.
-THe "Relancer" button will restart the program by drawing a new forest on the canvas.
+The "Relancer" button will restart the program by drawing a new forest on the canvas.
 
 You can set up the speed of the evolution (the delay between each step, in ms) with the "Vitesse de l'animation" line edit text (followed by Enter)
